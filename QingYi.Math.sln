@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QingYi.Math", "QingYi.Math\QingYi.Math.csproj", "{0E8D2864-4CA6-42B9-B2B5-32D8D5BA941B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTest", "test\MatrixTest\MatrixTest.csproj", "{F9546D6E-719B-7C8A-8D73-9E031C30D336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8D2864-4CA6-42B9-B2B5-32D8D5BA941B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8D2864-4CA6-42B9-B2B5-32D8D5BA941B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8D2864-4CA6-42B9-B2B5-32D8D5BA941B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8D2864-4CA6-42B9-B2B5-32D8D5BA941B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9546D6E-719B-7C8A-8D73-9E031C30D336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9546D6E-719B-7C8A-8D73-9E031C30D336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9546D6E-719B-7C8A-8D73-9E031C30D336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9546D6E-719B-7C8A-8D73-9E031C30D336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9546D6E-719B-7C8A-8D73-9E031C30D336} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4C01878-E47A-4F87-8F9E-384C68AE78CE}
+	EndGlobalSection
+EndGlobal
