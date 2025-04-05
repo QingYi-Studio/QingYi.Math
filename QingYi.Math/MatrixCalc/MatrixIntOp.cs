@@ -2,7 +2,7 @@
 
 namespace QingYi.Math.MatrixCalc
 {
-    public class MatrixIntOp
+    class MatrixIntOp
     {
         public static Matrix Add(Matrix m, int value)
         {
